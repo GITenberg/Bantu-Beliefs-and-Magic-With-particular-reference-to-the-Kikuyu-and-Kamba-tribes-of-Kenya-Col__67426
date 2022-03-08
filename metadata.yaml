@@ -1,0 +1,52 @@
+_repo: Bantu-Beliefs-and-Magic-With-particular-reference-to-the-Kikuyu-and-Kamba-tribes-of-Kenya-Col__67426
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Frazer, James George
+    aliases:
+    - Frazer, J. G. (James George)
+    - Frazer, Sir James George
+    birthdate: 1854
+    deathdate: 1941
+    gutenberg_agent_id: '1241'
+    url: http://www.gutenberg.org/2009/agents/1241
+    wikipedia: https://en.wikipedia.org/wiki/James_George_Frazer
+creator:
+  author:
+    agent_name: Hobley, C. W. (Charles William)
+    alias: Hobley, Charles William
+    birthdate: 1867
+    deathdate: 1947
+    gutenberg_agent_id: '54267'
+    url: http://www.gutenberg.org/2009/agents/54267
+    wikipedia: https://en.wikipedia.org/wiki/Charles_William_Hobley
+description: ''
+gutenberg_issued: '2022-02-17'
+identifiers:
+  gutenberg: '67426'
+  lccn: '22018870'
+language: en
+pgterms:marc904: https://archive.org/details/bantubeliefsmagi00hobl/page/n9
+pgterms:marc905: 20181022130530hobley
+pgterms:marc906: '1922'
+pgterms:marc907: GB
+production_note: Jeroen Hellingman and the Online Distributed Proofreading Team at
+  https://www.pgdp.net/ for Project Gutenberg (This file was produced from images
+  generously made available by The Internet Archive/American Libraries.)
+publication_note: United Kingdom :H.F. & G. Witherby,1922.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Kamba (African people)'
+- !lcc 'DT'
+- !lcsh 'Kikuyu (African people)'
+- !lcsh 'Folklore -- Africa'
+- !lcsh 'Indigenous peoples -- Africa, East'
+- !lcsh 'Bantu-speaking peoples -- Folklore'
+- !lcc 'GN'
+- GITenberg
+title: "Bantu Beliefs and Magic\r\nWith particular reference to the Kikuyu and Kamba\
+  \ tribes of Kenya Colony; together with some reflections on East Africa after the\
+  \ war"
+url: http://www.gutenberg.org/ebooks/67426
