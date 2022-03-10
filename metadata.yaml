@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '1241'
     url: http://www.gutenberg.org/2009/agents/1241
     wikipedia: https://en.wikipedia.org/wiki/James_George_Frazer
+covers:
+- cover_type: archival
+  image_path: 67426-h/images/new-cover.jpg
 creator:
   author:
     agent_name: Hobley, C. W. (Charles William)
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/54267
     wikipedia: https://en.wikipedia.org/wiki/Charles_William_Hobley
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67426#Bantu-Beliefs-and-Magic-With-particular-reference-to-the-Kikuyu-and-Kamba-tribes-of-Kenya-Col_
 gutenberg_issued: '2022-02-17'
 identifiers:
   gutenberg: '67426'
